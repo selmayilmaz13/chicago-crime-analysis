@@ -11,9 +11,6 @@ The dataset is based on Chicago crime data (2019–2025).
 **Download the Dataset from the API:**
 [City of Chicago API URL](https://data.cityofchicago.org/resource/crimes.json?$limit=1600000&$offset=1)
 
-**Or download from OneDrive:**
-[chicago_crimes_2018_2025.csv](https://northeastern-my.sharepoint.com/:x:/g/personal/sahoo_ro_northeastern_edu/ESxGC3oVmaxKm8EOvMe68QwBsbUntDwv0q1agKqREQZQow?e=RTTHC)
-
 ## Project Structure
 ```
 chicago-crime-analysis/
